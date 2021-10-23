@@ -1,0 +1,1 @@
+"./main.obj" "./src/ADC10.obj" "./src/Battery.obj" "./src/Event.obj" "./src/Game.obj" "./src/Monitor.obj" "./src/Switch.obj" "./src/UART.obj" "./src/Menu_gui/Menu_gui.obj" "./src/Menu_gui/Menu_gui_driver.obj" "./src/SSD1306/Font_code.obj" "./src/SSD1306/SSD1306_draw.obj" "./src/SSD1306/SSD1306_driver.obj" "../lnk_msp430g2553.cmd" -llibc.a 
